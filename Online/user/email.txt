@@ -1,0 +1,4 @@
+Hello Sir,
+	
+
+	Your Verification Code is: %token%
